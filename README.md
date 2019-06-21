@@ -41,3 +41,4 @@ The data we provide is a static JSON file under `/public/data`.
     como utilizar o return() usando o hmtl semântica correto, pois tive dificuldade na parte onde ele obriga a encapsular tudo em uma unica tag.
     como chamar métodos e funções de forma correta.
     enfim, preciso estudar mais React.
+* Fiquei tão focada no funcionamento que não me aprofundei no layout.
